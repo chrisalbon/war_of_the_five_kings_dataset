@@ -53,3 +53,6 @@ This readme file acts as the codebook for the dataset.
 ### Are you a huge ASOIAF fan?
 
 Not really. I just love data - all data.
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/view/YVCREKZP14Y2XXC)
