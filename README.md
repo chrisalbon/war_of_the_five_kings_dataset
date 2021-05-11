@@ -32,14 +32,14 @@ This readme file acts as the codebook for the dataset.
 - **battle_type:** Categorical variable. A classification of the battle's primary type. Categories:
     - pitched\_battle: Armies meet in a location and fight. This is also the baseline category.
     - ambush: A battle where stealth or subterfuge was the primary means of attack.
-    - siege: A prolonged of a fortied position.
+    - siege: A prolonged of a fortified position.
     - razing: An attack against an undefended position
 - **major_death:** Binary variable. If there was a death of a major figure during the battle.
 - **major_capture:** Binary variable. If there was the capture of the major figure during the battle.
 - **attacker_size:** Numeric variable. The size of the attacker's force. No distinction is made between the types of soldiers such as cavalry and footmen.
-- **defender_size:** Numeric variable. The size of the defenders's force. No distinction is made between the types of soldiers such as cavalry and footmen.
-- **attacker_commander:** String variable. Major commanders of the attackers. Commander's names are included without honoric titles and commandders are seperated by commas.
-- **defender_commander:** String variable. Major commanders of the defener. Commander's names are included without honoric titles and commandders are seperated by commas.
+- **defender_size:** Numeric variable. The size of the defenders' force. No distinction is made between the types of soldiers such as cavalry and footmen.
+- **attacker_commander:** String variable. Major commanders of the attackers. Commander's names are included without honorific titles and commanders are separated by commas.
+- **defender_commander:** String variable. Major commanders of the defender. Commander's names are included without honorific titles and commanders are separated by commas.
 - **summer:** Binary variable. Was it summer?
 - **location:** String variable. The location of the battle.
 - **region:** Categorical variable. The region where the battle takes place. Categories: Beyond the Wall, The North, The Iron Islands, The Riverlands, The Vale of Arryn, The Westerlands, The Crownlands, The Reach, The Stormlands, Dorne
