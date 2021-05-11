@@ -18,7 +18,7 @@ This readme file acts as the codebook for the dataset.
 - **name:** String variable. The name of the battle.
 - **year:** Numeric variable. The year of the battle.
 - **battle_number:** Numeric variable. A unique ID number for the battle.
-- **attacker_king:** Categorical. The attacker's king. A slash indicators that the king changes over the course of the war. For example, "Joffrey/Tommen Baratheon" is coded as such because one king follows the other in the Iron Throne.
+- **attacker_king:** Categorical. The attacker's king. A slash indicates that the king changes over the course of the war. For example, "Joffrey/Tommen Baratheon" is coded as such because one king follows the other in the Iron Throne.
 - **defender_king:** Categorical variable. The defender's king.
 - **attacker_1:** String variable. Major house attacking.
 - **attacker_2:** String variable. Major house attacking.
